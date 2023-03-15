@@ -1,9 +1,35 @@
 # Terminus 终点站
-DOMAIN-KEYWORD,emby.wtf
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,emby.vip
+DOMAIN-SUFFIX,880660.xyz
+DOMAIN-SUFFIX,gtm-sg-l9u2dq47y02.gtm-i1d7.com
+DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,newpppp.com
+# Jmsooo 卷毛鼠
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,arp220.us
+DOMAIN-SUFFIX,xftld.org
 # Odyssey+
-DOMAIN-KEYWORD,odysseyplus
+DOMAIN-KEYWORD,odysseyplus.site
+# Plus 普拉斯
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-sg.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
+# Otaku
+DOMAIN,emby.otakudrive.life
+DOMAIN,emby2.otakudrive.life
 # Cc公益服
 DOMAIN-KEYWORD,ccemby.tk
+# Nebula
+DOMAIN-KEYWORD,nebula-emby.com
 # bigdongdong
 DOMAIN-KEYWORD,bddup.com
 IP-CIDR,124.95.187.106/32,no-resolve
@@ -76,6 +102,12 @@ DOMAIN-KEYWORD,20120714.xyz
 DOMAIN-KEYWORD,embyplus.org
 # Moonlight
 DOMAIN-KEYWORD,1100000.xyz
+# 大白
+DOMAIN,emby.p-p.men
+# Gfw
+DOMAIN-SUFFIX,gfwemby.org
+# aiyowei
+DOMAIN,emby.aiyowei.ml
 # AcEmby
 DOMAIN-KEYWORD,acemby.org
 # Mulgore
