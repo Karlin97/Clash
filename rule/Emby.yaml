@@ -41,7 +41,7 @@ DOMAIN-KEYWORD,embyplus.club
 DOMAIN-KEYWORD,mjjemby.org
 # peach公益服
 DOMAIN-KEYWORD,embymv.tk
-IP-CIDR, 209.97.173.144/32,no-resolve
+IP-CIDR,209.97.173.144/32,no-resolve
 # Orange
 DOMAIN-KEYWORD,embytv.cf
 # Polo
