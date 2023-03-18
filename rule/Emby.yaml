@@ -112,6 +112,7 @@ DOMAIN,emby.aiyowei.ml
 DOMAIN-KEYWORD,acemby.org
 # Mulgore
 IP-CIDR,202.61.255.248/32,no-resolve
+DOMAIN-KEYWORD,mulgore.net
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
