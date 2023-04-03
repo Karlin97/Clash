@@ -116,6 +116,6 @@ DOMAIN-KEYWORD,mulgore.net
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
-DOMAIN,emby.media
+DOMAIN-SUFFIX,emby.media
 DOMAIN-KEYWORD,jellyfin
 DOMAIN-KEYWORD,alist
