@@ -35,6 +35,7 @@ DOMAIN-KEYWORD,bddup.com
 IP-CIDR,124.95.187.106/32,no-resolve
 # Misty
 DOMAIN-KEYWORD,aaa.ax
+DOMAIN-KEYWORD,misty.one
 # 品云
 DOMAIN-KEYWORD,embyplus.club
 # MJJ EMBY
