@@ -111,9 +111,10 @@ DOMAIN-SUFFIX,gfwemby.org
 DOMAIN,emby.aiyowei.ml
 # AcEmby
 DOMAIN-KEYWORD,acemby.org
-# Mulgore
+# Mulgore (剧狗)
 IP-CIDR,202.61.255.248/32,no-resolve
 DOMAIN-KEYWORD,mulgore.net
+DOMAIN-KEYWORD,ju.dog
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
