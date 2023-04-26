@@ -56,9 +56,6 @@ DOMAIN-KEYWORD,misakaf.org
 DOMAIN-KEYWORD,emby.ml
 # 二次元
 DOMAIN-KEYWORD,media.nijigem.by
-# 猫熊
-DOMAIN-KEYWORD,emby.kim
-IP-CIDR,64.32.25.204/32,no-resolve
 # BlueSea
 DOMAIN-KEYWORD,blueseamusics.com
 DOMAIN-KEYWORD,blueseacdn.com
