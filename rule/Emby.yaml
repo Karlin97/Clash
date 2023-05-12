@@ -110,6 +110,7 @@ DOMAIN,emby.aiyowei.ml
 DOMAIN-KEYWORD,acemby.org
 # Mulgore (剧狗)
 IP-CIDR,202.61.255.248/32,no-resolve
+DOMAIN-KEYWORD,mgl.gay
 DOMAIN-KEYWORD,mulgore.net
 DOMAIN-KEYWORD,ju.dog
 # 星光
