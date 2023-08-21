@@ -159,6 +159,8 @@ DOMAIN-KEYWORD,ednovas.org
 # 田小瑞
 DOMAIN-KEYWORD,zerodisk.site
 IP-CIDR,198.211.54.200/32,no-resolve
+# 黑格公益Emby
+IP-CIDR,150.230.233.218/32,no-resolve
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
