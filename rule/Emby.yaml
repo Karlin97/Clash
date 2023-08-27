@@ -161,6 +161,8 @@ DOMAIN-KEYWORD,zerodisk.site
 IP-CIDR,198.211.54.200/32,no-resolve
 # 黑格Emby
 IP-CIDR,150.230.233.218/32,no-resolve
+# Temby
+DOMAIN-KEYWORD,285286.xyz
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
