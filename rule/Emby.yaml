@@ -164,7 +164,7 @@ IP-CIDR,150.230.233.218/32,no-resolve
 # Temby
 DOMAIN-KEYWORD,285286.xyz
 # CherryEmby
-DOMAIN-KEYWORD,DOMAIN-KEYWORD,cherrytv.one
+DOMAIN-KEYWORD,cherrytv.one
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
