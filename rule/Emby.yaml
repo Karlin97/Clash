@@ -165,7 +165,7 @@ IP-CIDR,150.230.233.218/32,no-resolve
 DOMAIN-KEYWORD,285286.xyz
 # CherryEmby
 DOMAIN-KEYWORD,cherrytv.one
-# 鹅城映画
+# Bar Emby
 IP-CIDR,154.17.12.147/32,no-resolve
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
