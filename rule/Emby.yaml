@@ -167,6 +167,8 @@ DOMAIN-KEYWORD,285286.xyz
 DOMAIN-KEYWORD,cherrytv.one
 # Bar Emby
 IP-CIDR,154.17.12.147/32,no-resolve
+# 酷安EMBY
+IP-CIDR,140.238.6.215/32,no-resolve
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
