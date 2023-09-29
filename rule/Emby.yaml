@@ -169,6 +169,8 @@ DOMAIN-KEYWORD,cherrytv.one
 IP-CIDR,154.17.12.147/32,no-resolve
 # 酷安EMBY
 IP-CIDR,140.238.6.215/32,no-resolve
+# JH Emby
+DOMAIN-KEYWORD,reddust.link
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
