@@ -167,6 +167,7 @@ DOMAIN-KEYWORD,285286.xyz
 DOMAIN-KEYWORD,cherrytv.one
 # Bar Emby
 IP-CIDR,23.225.14.121/32,no-resolve
+DOMAIN-KEYWORD,tv.the98.ltd
 # 酷安EMBY
 IP-CIDR,140.238.6.215/32,no-resolve
 # JH Emby
