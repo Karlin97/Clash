@@ -96,6 +96,7 @@ IP-CIDR,195.201.86.86/32,no-resolve
 DOMAIN-KEYWORD,ywang.cf
 # hxd
 DOMAIN-KEYWORD,222921.xyz
+DOMAIN-KEYWORD,bili.rip
 # xiangling
 IP-CIDR,152.67.227.57/32,no-resolve
 DOMAIN-KEYWORD,20120714.xyz
