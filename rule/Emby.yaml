@@ -173,6 +173,8 @@ IP-CIDR,23.225.14.121/32,no-resolve
 DOMAIN-KEYWORD,tv.the98.ltd
 # 酷安EMBY
 IP-CIDR,140.238.6.215/32,no-resolve
+IP-CIDR,94.16.122.183/32,no-resolve
+DOMAIN-KEYWORD,yutron.eu.org
 # JH Emby
 DOMAIN-KEYWORD,reddust.link
 # 回声影视
