@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,gfwemby.org
 DOMAIN,emby.aiyowei.ml
 # AcEmby
 DOMAIN-KEYWORD,acemby.org
+DOMAIN-KEYWORD,zox.show
 # Mulgore (剧狗)
 IP-CIDR,202.61.255.248/32,no-resolve
 DOMAIN-KEYWORD,mgl.gay
