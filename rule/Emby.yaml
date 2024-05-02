@@ -182,8 +182,6 @@ DOMAIN-KEYWORD,tv.the98.ltd
 IP-CIDR,140.238.6.215/32,no-resolve
 IP-CIDR,94.16.122.183/32,no-resolve
 DOMAIN-KEYWORD,yutron.eu.org
-# JH Emby
-DOMAIN-KEYWORD,reddust.link
 # 回声影视
 DOMAIN-KEYWORD,echoe.gay
 # 太空人
@@ -195,6 +193,8 @@ DOMAIN-KEYWORD,apopcloud.me
 DOMAIN-KEYWORD,apopcloud.com
 # 飞跃彩虹
 DOMAIN-KEYWORD,7777777.buzz
+# Akuai
+DOMAIN-KEYWORD,9012345.xyz
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
