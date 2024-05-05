@@ -76,6 +76,7 @@ DOMAIN-KEYWORD,ikoumi.com
 # paul
 DOMAIN-KEYWORD,embypaul.top
 DOMAIN-KEYWORD,bookpan.top
+DOMAIN-KEYWORD,imetyou.top
 # studyfun
 DOMAIN-KEYWORD,studyfun999.xyz
 DOMAIN-KEYWORD,studyfun.live
@@ -132,6 +133,7 @@ DOMAIN-KEYWORD,emby.wiri.tk
 # NMEmby
 DOMAIN-KEYWORD,goodisp.org
 DOMAIN-KEYWORD,ohhhh.org
+DOMAIN-KEYWORD,hovervan.org
 # TreeDiagram
 DOMAIN-KEYWORD,789.123456.al
 # StarCat
@@ -176,8 +178,6 @@ IP-CIDR,198.211.54.200/32,no-resolve
 IP-CIDR,150.230.233.218/32,no-resolve
 # Temby
 DOMAIN-KEYWORD,285286.xyz
-# CherryEmby
-DOMAIN-KEYWORD,cherrytv.one
 # Bar Emby
 IP-CIDR,23.225.14.121/32,no-resolve
 DOMAIN-KEYWORD,tv.the98.ltd
