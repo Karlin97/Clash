@@ -90,6 +90,7 @@ DOMAIN-KEYWORD,dmesg.gq
 DOMAIN-KEYWORD,agon.cf
 # Infinity
 DOMAIN-KEYWORD,infinityfly.top
+IP-CIDR,140.83.59.29/32,no-resolve
 # CatFish
 DOMAIN-KEYWORD,catfishemby.club
 DOMAIN-KEYWORD,66699.tk
