@@ -1,5 +1,6 @@
 # Terminus 终点站
 DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
 DOMAIN-SUFFIX,emby.vip
 DOMAIN-SUFFIX,880660.xyz
 DOMAIN-SUFFIX,gtm-sg-l9u2dq47y02.gtm-i1d7.com
@@ -219,11 +220,13 @@ DOMAIN-KEYWORD,955557.xyz
 DOMAIN-KEYWORD,cbcb.lol
 # 未响
 DOMAIN-KEYWORD,mefun.org
-# 蘑菇 Emby
+# 蘑菇/见手青 Emby
 DOMAIN-KEYWORD,mooguu.xyz
+DOMAIN-KEYWORD,mooguu.top
 # Robo
 DOMAIN-KEYWORD,91ai.de
 DOMAIN-KEYWORD,668918.xyz
+DOMAIN-KEYWORD,656888.xyz
 # hkaemby
 DOMAIN-KEYWORD,hka-emby.aliz.work
 # yomo
