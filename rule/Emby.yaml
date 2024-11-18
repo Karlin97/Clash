@@ -251,6 +251,11 @@ DOMAIN-KEYWORD,itsmyduty.top
 DOMAIN-KEYWORD,1024.name
 # 月饼
 DOMAIN-KEYWORD,emby.my
+# 鹅服
+IP-CIDR,46.3.99.99/32,no-resolve
+IP-CIDR,46.3.101.30/32,no-resolve
+IP-CIDR,154.29.154.124/32,no-resolve
+DOMAIN-KEYWORD,cavps.eu.org
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
