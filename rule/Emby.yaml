@@ -255,6 +255,7 @@ DOMAIN-KEYWORD,emby.my
 IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,154.29.154.124/32,no-resolve
+IP-CIDR,154.29.145.151/32,no-resolve
 DOMAIN-KEYWORD,cavps.eu.org
 DOMAIN-KEYWORD,567996.xyz
 # 开心520
