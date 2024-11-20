@@ -253,6 +253,7 @@ DOMAIN-KEYWORD,1024.name
 DOMAIN-KEYWORD,emby.my
 # 鹅服
 IP-CIDR,46.3.99.99/32,no-resolve
+IP-CIDR,46.3.99.83/32,no-resolve
 IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,46.3.101.143/32,no-resolve
 IP-CIDR,154.29.154.124/32,no-resolve
