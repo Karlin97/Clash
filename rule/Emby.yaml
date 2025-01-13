@@ -277,6 +277,7 @@ DOMAIN-KEYWORD,cdn.bgp.yt
 # 起点站
 DOMAIN-KEYWORD,tdck.fun
 DOMAIN-KEYWORD,clun.top
+DOMAIN-KEYWORD,vfing.de
 IP-CIDR,192.99.35.111/32,no-resolve
 # SaturDay Lite
 DOMAIN-KEYWORD,saturday.video
