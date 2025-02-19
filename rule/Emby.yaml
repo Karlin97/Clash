@@ -304,6 +304,8 @@ DOMAIN-KEYWORD,mobaiemby.site
 DOMAIN-KEYWORD,beebi.org
 # 流星Emby
 DOMAIN-KEYWORD,ld2j.top
+# 垃圾机器服
+IP-CIDR,45.142.176.135/32,no-resolve
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
