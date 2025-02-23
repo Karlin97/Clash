@@ -306,6 +306,8 @@ DOMAIN-KEYWORD,beebi.org
 DOMAIN-KEYWORD,liustar.click
 # 垃圾机器服
 IP-CIDR,45.142.176.135/32,no-resolve
+# 明天倒闭
+DOMAIN-KEYWORD,sexemby.com
 # 开心520
 DOMAIN-KEYWORD,ucu520.top
 # 通用
