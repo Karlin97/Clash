@@ -246,6 +246,7 @@ DOMAIN-KEYWORD,emby-v.com
 DOMAIN-KEYWORD,aganemby.top
 # AlphaTV海外服
 DOMAIN-KEYWORD,alphatvapp.top
+IP-CIDR,95.211.168.246/32,no-resolve
 # 非越媒体库
 DOMAIN-KEYWORD,sfcj.org
 # Nanflix
