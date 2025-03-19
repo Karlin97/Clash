@@ -304,6 +304,7 @@ DOMAIN-KEYWORD,wenjian.de
 DOMAIN-KEYWORD,mobaiemby.site
 # 比比
 DOMAIN-KEYWORD,beebi.org
+IP-CIDR,167.235.118.41/32,no-resolve
 # 流星 Emby
 DOMAIN-KEYWORD,liustar.click
 # 垃圾机器服
