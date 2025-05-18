@@ -39,7 +39,6 @@ IP-CIDR,124.95.187.106/32,no-resolve
 # Misty
 DOMAIN-KEYWORD,aaa.ax
 DOMAIN-KEYWORD,misty.one
-DOMAIN-KEYWORD,misty.cx
 # 品云
 DOMAIN-KEYWORD,embyplus.club
 # MJJ EMBY
@@ -55,13 +54,10 @@ DOMAIN-KEYWORD,otv.icu
 # Polo
 DOMAIN-KEYWORD,poloemby.xyz
 DOMAIN-KEYWORD,pololine.ml
-# 卡戎
-DOMAIN-KEYWORD,charontv.com
 # Misakaf
 DOMAIN-KEYWORD,misakaf.org
 # 垃圾影音
 DOMAIN-KEYWORD,emby.ml
-DOMAIN-KEYWORD,xmsl.org
 DOMAIN-KEYWORD,gtlx.org
 DOMAIN-KEYWORD,loseremby.org
 # 二次元
