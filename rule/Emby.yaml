@@ -47,6 +47,7 @@ DOMAIN-KEYWORD,yhemby.top
 DOMAIN-KEYWORD,embymv.link
 DOMAIN-KEYWORD,peachmv.me
 IP-CIDR,209.97.173.144/32,no-resolve
+IP-CIDR,193.123.232.141/32
 # Orange
 DOMAIN-KEYWORD,embytv.cf
 DOMAIN-KEYWORD,otv.icu
@@ -78,7 +79,6 @@ DOMAIN-KEYWORD,ikoumi.com
 # paul
 DOMAIN-KEYWORD,embypaul.top
 DOMAIN-KEYWORD,bookpan.top
-DOMAIN-KEYWORD,imetyou.top
 # studyfun
 DOMAIN-KEYWORD,studyfun999.xyz
 DOMAIN-KEYWORD,studyfun.live
