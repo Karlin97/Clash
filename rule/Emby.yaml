@@ -66,6 +66,9 @@ IP-CIDR,146.235.227.133/25
 IP-CIDR,152.70.233.134/25
 # 二次元
 DOMAIN-KEYWORD,media.nijigem.by
+# PiliPili
+DOMAIN-KEYWORD,994959.xyz
+DOMAIN-KEYWORD,pilipili.me
 # BlueSea
 DOMAIN-KEYWORD,blueseamusics.com
 DOMAIN-KEYWORD,blueseacdn.com
