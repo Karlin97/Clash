@@ -391,3 +391,6 @@ DOMAIN-KEYWORD,ucu520.top
 DOMAIN-SUFFIX,emby.media
 DOMAIN-KEYWORD,jellyfin
 DOMAIN-KEYWORD,alist
+# PikPak
+DOMAIN-SUFFIX,api-drive.mypikpak.com
+DOMAIN-KEYWORD,dl-a10b-
