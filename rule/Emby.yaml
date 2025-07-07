@@ -213,6 +213,7 @@ IP-CIDR,193.122.114.13/32,no-resolve
 DOMAIN-KEYWORD,9012345.xyz
 # Heisi Emby
 DOMAIN-KEYWORD,i109.com
+DOMAIN-KEYWORD,heisi.org
 # Baisi Emby
 DOMAIN-KEYWORD,baisi.pro
 # 搬服
