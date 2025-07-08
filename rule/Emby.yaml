@@ -261,9 +261,11 @@ DOMAIN-KEYWORD,lilyemby.my
 DOMAIN-KEYWORD,itsmyduty.top
 DOMAIN-KEYWORD,clun.top
 DOMAIN-KEYWORD,myhxgzw.fun
-# 月饼
+# 月饼/映月
 DOMAIN-KEYWORD,emby.my
 DOMAIN-KEYWORD,637567.xyz
+DOMAIN-KEYWORD,yuebing.xyz
+DOMAIN-KEYWORD,yingyue.my
 # 鹅服
 IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.99.83/32,no-resolve
