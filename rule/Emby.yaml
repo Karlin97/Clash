@@ -250,6 +250,7 @@ DOMAIN-KEYWORD,aganemby.top
 DOMAIN-KEYWORD,alphatvapp.top
 DOMAIN-KEYWORD,204cloud.com
 IP-CIDR,95.211.168.246/32,no-resolve
+IP-CIDR,43.139.184.65/32,no-resolve
 # 非越媒体库
 DOMAIN-KEYWORD,sfcj.org
 # Nanflix
