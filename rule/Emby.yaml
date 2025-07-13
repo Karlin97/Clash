@@ -66,7 +66,8 @@ IP-CIDR,154.12.52.149/25
 IP-CIDR,146.235.227.133/25
 IP-CIDR,152.70.233.134/25
 # 二次元
-DOMAIN-KEYWORD,media.nijigem.by
+DOMAIN-KEYWORD,nijigem.by
+DOMAIN-KEYWORD,cdn.bgp.yt
 # PiliPili
 DOMAIN-KEYWORD,994959.xyz
 DOMAIN-KEYWORD,pilipili.me
@@ -284,8 +285,6 @@ DOMAIN-KEYWORD,diaojinping.de
 DOMAIN-KEYWORD,auroramedia.vip
 # 骡马影库
 DOMAIN-KEYWORD,nomaba.com
-# 二次元emby
-DOMAIN-KEYWORD,cdn.bgp.yt
 # 起点站
 DOMAIN-KEYWORD,tdck.fun
 DOMAIN-KEYWORD,clun.top
