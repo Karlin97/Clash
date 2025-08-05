@@ -430,6 +430,8 @@ DOMAIN-KEYWORD,shrekmedia.org
 DOMAIN-KEYWORD,91lovea.xyz
 # UHDNOW
 DOMAIN-KEYWORD,uhdnow.com
+# 妖火
+IP-CIDR,124.243.177.34/32,no-resolve
 # EmbyOne
 DOMAIN-KEYWORD,3856963.shop
 # 开心520
