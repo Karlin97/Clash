@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,arp220.us
 DOMAIN-SUFFIX,xftld.org
 # Odyssey+
-DOMAIN-KEYWORD,odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 # Plus 普拉斯
 DOMAIN,emby.plusmedia.site
 DOMAIN,emby-sg.plusmedia.site
@@ -28,97 +28,97 @@ DOMAIN,servers.xeton.dev
 DOMAIN,emby.otakudrive.life
 DOMAIN,emby2.otakudrive.life
 # Cc公益服
-DOMAIN-KEYWORD,ccemby.tk
-DOMAIN-KEYWORD,coemn.com
-DOMAIN-KEYWORD,embycc.link
+DOMAIN-SUFFIX,ccemby.tk
+DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,embycc.link
 # Nebula
 DOMAIN,direct.nebula-emby.com
 # bigdongdong
-DOMAIN-KEYWORD,bddup.com
+DOMAIN-SUFFIX,bddup.com
 IP-CIDR,124.95.187.106/32,no-resolve
 # Misty
-DOMAIN-KEYWORD,aaa.ax
-DOMAIN-KEYWORD,misty.one
+DOMAIN-SUFFIX,aaa.ax
+DOMAIN-SUFFIX,misty.one
 # 品云
-DOMAIN-KEYWORD,embyplus.club
+DOMAIN-SUFFIX,embyplus.club
 # MJJ EMBY
-DOMAIN-KEYWORD,mjjemby.org
-DOMAIN-KEYWORD,yhemby.top
+DOMAIN-SUFFIX,mjjemby.org
+DOMAIN-SUFFIX,yhemby.top
 # peach公益服
-DOMAIN-KEYWORD,embymv.link
-DOMAIN-KEYWORD,peachmv.me
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,peachmv.me
 IP-CIDR,209.97.173.144/32,no-resolve
 IP-CIDR,193.123.232.141/32
 # Orange
-DOMAIN-KEYWORD,embytv.cf
-DOMAIN-KEYWORD,otv.icu
+DOMAIN-SUFFIX,embytv.cf
+DOMAIN-SUFFIX,otv.icu
 # Polo
-DOMAIN-KEYWORD,poloemby.xyz
-DOMAIN-KEYWORD,pololine.ml
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
 # Misakaf
-DOMAIN-KEYWORD,misakaf.org
+DOMAIN-SUFFIX,misakaf.org
 # 垃圾影音
-DOMAIN-KEYWORD,emby.ml
-DOMAIN-SUFFIX,pm.xmsl.org
-DOMAIN-KEYWORD,gtlx.org
-DOMAIN-KEYWORD,loseremby.org
-DOMAIN-KEYWORD,emby.bio
+DOMAIN-SUFFIX,emby.ml
+DOMAIN,pm.xmsl.org
+DOMAIN-SUFFIX,gtlx.org
+DOMAIN-SUFFIX,loseremby.org
+DOMAIN-SUFFIX,emby.bio
 IP-CIDR,154.12.52.149/25
 IP-CIDR,146.235.227.133/25
 IP-CIDR,152.70.233.134/25
 # 二次元
-DOMAIN-KEYWORD,nijigem.by
-DOMAIN-KEYWORD,cdn.bgp.yt
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,cdn.bgp.yt
 # PiliPili
-DOMAIN-KEYWORD,pilipiliultra.com
-DOMAIN-KEYWORD,994959.xyz
-DOMAIN-KEYWORD,pilipili.me
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,994959.xyz
+DOMAIN-SUFFIX,pilipili.me
 # BlueSea
-DOMAIN-KEYWORD,blueseamusics.com
-DOMAIN-KEYWORD,blueseacdn.com
+DOMAIN-SUFFIX,blueseamusics.com
+DOMAIN-SUFFIX,blueseacdn.com
 # 奶库
-DOMAIN-KEYWORD,nakonako.net
-DOMAIN-KEYWORD,nakoemby.com
+DOMAIN-SUFFIX,nakonako.net
+DOMAIN-SUFFIX,nakoemby.com
 IP-CIDR,20.205.38.244/32,no-resolve
 IP-CIDR,95.217.228.36/32,no-resolve
 # ikoumi
-DOMAIN-KEYWORD,ikoumi.com
+DOMAIN-SUFFIX,ikoumi.com
 # paul
-DOMAIN-KEYWORD,embypaul.top
-DOMAIN-KEYWORD,bookpan.top
+DOMAIN-SUFFIX,embypaul.top
+DOMAIN-SUFFIX,bookpan.top
 # studyfun
-DOMAIN-KEYWORD,studyfun999.xyz
-DOMAIN-KEYWORD,studyfun.live
+DOMAIN-SUFFIX,studyfun999.xyz
+DOMAIN-SUFFIX,studyfun.live
 # 11盘
-DOMAIN-KEYWORD,bpking.top
-DOMAIN-KEYWORD,11pshare.tk
+DOMAIN-SUFFIX,bpking.top
+DOMAIN-SUFFIX,11pshare.tk
 IP-CIDR,18.141.10.156/32,no-resolve
 # 杰尼龟
-DOMAIN-KEYWORD,dmesg.gq
+DOMAIN-SUFFIX,dmesg.gq
 # viper
-DOMAIN-KEYWORD,agon.cf
+DOMAIN-SUFFIX,agon.cf
 # Infinity
-DOMAIN-KEYWORD,infinityfly.top
+DOMAIN-SUFFIX,infinityfly.top
 IP-CIDR,140.83.59.29/32,no-resolve
 # CatFish
-DOMAIN-KEYWORD,catfishemby.club
-DOMAIN-KEYWORD,66699.tk
+DOMAIN-SUFFIX,catfishemby.club
+DOMAIN-SUFFIX,66699.tk
 # NMG Flim
-DOMAIN-KEYWORD,film.nmg.llc
+DOMAIN-SUFFIX,film.nmg.llc
 # Pornemby-网抑云
 IP-CIDR,195.201.86.86/32,no-resolve
 # 白嫖王
-DOMAIN-KEYWORD,ywang.cf
+DOMAIN-SUFFIX,ywang.cf
 # hxd
-DOMAIN-KEYWORD,222921.xyz
-DOMAIN-KEYWORD,bili.rip
-DOMAIN-KEYWORD,hxd.as174.de
-DOMAIN-KEYWORD,cdn.as174.de
+DOMAIN-SUFFIX,222921.xyz
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,hxd.as174.de
+DOMAIN-SUFFIX,cdn.as174.de
 # xiangling
 IP-CIDR,152.67.227.57/32,no-resolve
-DOMAIN-KEYWORD,20120714.xyz
+DOMAIN-SUFFIX,20120714.xyz
 # Moonlight
-DOMAIN-KEYWORD,1100000.xyz
+DOMAIN-SUFFIX,1100000.xyz
 # 大白
 DOMAIN,emby.p-p.men
 # Gfw
@@ -126,150 +126,150 @@ DOMAIN-SUFFIX,gfwemby.org
 # aiyowei
 DOMAIN,emby.aiyowei.ml
 # AcEmby
-DOMAIN-KEYWORD,acemby.org
-DOMAIN-KEYWORD,zox.show
-DOMAIN-KEYWORD,3767483.xyz
+DOMAIN-SUFFIX,acemby.org
+DOMAIN-SUFFIX,zox.show
+DOMAIN-SUFFIX,3767483.xyz
 # Mulgore (剧狗)
 IP-CIDR,202.61.255.248/32,no-resolve
-DOMAIN-KEYWORD,mgl.gay
-DOMAIN-KEYWORD,mulgore.net
-DOMAIN-KEYWORD,ju.dog
+DOMAIN-SUFFIX,mgl.gay
+DOMAIN-SUFFIX,mulgore.net
+DOMAIN-SUFFIX,ju.dog
 # 星光
-DOMAIN-KEYWORD,emby.eu.org
+DOMAIN-SUFFIX,emby.eu.org
 # CaptainZ
-DOMAIN-KEYWORD,emby.wiri.tk
+DOMAIN-SUFFIX,emby.wiri.tk
 # NMEmby
-DOMAIN-KEYWORD,goodisp.org
-DOMAIN-KEYWORD,ohhhh.org
-DOMAIN-KEYWORD,hovervan.org
+DOMAIN-SUFFIX,goodisp.org
+DOMAIN-SUFFIX,ohhhh.org
+DOMAIN-SUFFIX,hovervan.org
 # TreeDiagram
-DOMAIN-KEYWORD,789.123456.al
+DOMAIN-SUFFIX,789.123456.al
 # StarCat
-DOMAIN-KEYWORD,starcat.eu.org
-DOMAIN-KEYWORD,catlinks.co.uk
+DOMAIN-SUFFIX,starcat.eu.org
+DOMAIN-SUFFIX,catlinks.co.uk
 # Magic Cloud
-DOMAIN-KEYWORD,freetz.top
+DOMAIN-SUFFIX,freetz.top
 # 会员制EMBY餐厅
-DOMAIN-KEYWORD,mius.uk
-DOMAIN-KEYWORD,emby.ooii.net
+DOMAIN-SUFFIX,mius.uk
+DOMAIN-SUFFIX,emby.ooii.net
 # 梁山客栈
-DOMAIN-KEYWORD,shuipo.lol
+DOMAIN-SUFFIX,shuipo.lol
 # TeCar 特卡
-DOMAIN-KEYWORD,carlos.trade
+DOMAIN-SUFFIX,carlos.trade
 # GuGu Emby
-DOMAIN-KEYWORD,gugumedia.link
-DOMAIN-KEYWORD,dicarerhome.com
-DOMAIN-KEYWORD,gugu.media
-DOMAIN-KEYWORD,gugumedia.site
-DOMAIN-KEYWORD,guguemby.site
+DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,dicarerhome.com
+DOMAIN-SUFFIX,gugu.media
+DOMAIN-SUFFIX,gugumedia.site
+DOMAIN-SUFFIX,guguemby.site
 # Tank
-DOMAIN-KEYWORD,tank66.top
-DOMAIN-KEYWORD,tank88.top
+DOMAIN-SUFFIX,tank66.top
+DOMAIN-SUFFIX,tank88.top
 # 翔翎的正剧场
-DOMAIN-KEYWORD,studyfun.live
-DOMAIN-KEYWORD,20120714.xyz
+DOMAIN-SUFFIX,studyfun.live
+DOMAIN-SUFFIX,20120714.xyz
 # nyamedia
-DOMAIN-KEYWORD,bangumi.ca
+DOMAIN-SUFFIX,bangumi.ca
 # 梓澪の公益服
-DOMAIN-KEYWORD,zi0.icu
+DOMAIN-SUFFIX,zi0.icu
 # Dolphin Emby
-DOMAIN-KEYWORD,emby.ws
+DOMAIN-SUFFIX,emby.ws
 # 叔服 EMBY
-DOMAIN-KEYWORD,mcjoker.xyz
+DOMAIN-SUFFIX,mcjoker.xyz
 # Emby Hub
-DOMAIN-KEYWORD,ednovas.org
+DOMAIN-SUFFIX,ednovas.org
 # 田小瑞
-DOMAIN-KEYWORD,zerodisk.site
-DOMAIN-KEYWORD,txrui.top
+DOMAIN-SUFFIX,zerodisk.site
+DOMAIN-SUFFIX,txrui.top
 IP-CIDR,198.211.54.200/32,no-resolve
 # 黑格Emby
 IP-CIDR,150.230.233.218/32,no-resolve
 # Temby
-DOMAIN-KEYWORD,285286.xyz
+DOMAIN-SUFFIX,285286.xyz
 # Bar Emby
 IP-CIDR,23.225.14.121/32,no-resolve
-DOMAIN-KEYWORD,tv.the98.ltd
+DOMAIN-SUFFIX,tv.the98.ltd
 # 酷安EMBY
 IP-CIDR,140.238.6.215/32,no-resolve
 IP-CIDR,94.16.122.183/32,no-resolve
-DOMAIN-KEYWORD,yutron.eu.org
+DOMAIN-SUFFIX,yutron.eu.org
 # 回声影视
-DOMAIN-KEYWORD,echoe.gay
+DOMAIN-SUFFIX,echoe.gay
 # 太空人
-DOMAIN-KEYWORD,tkremby.xyz
+DOMAIN-SUFFIX,tkremby.xyz
 # ntRRR
-DOMAIN-KEYWORD,stream.ntrrr.top
+DOMAIN-SUFFIX,stream.ntrrr.top
 # Lyrebird
-DOMAIN-KEYWORD,lyrebirdemby.com
+DOMAIN-SUFFIX,lyrebirdemby.com
 # Apop Emby
-DOMAIN-KEYWORD,apopcloud.me
-DOMAIN-KEYWORD,apopcloud.com
-DOMAIN-KEYWORD,apopcloud.live
+DOMAIN-SUFFIX,apopcloud.me
+DOMAIN-SUFFIX,apopcloud.com
+DOMAIN-SUFFIX,apopcloud.live
 # 飞跃彩虹/星空/地平线
-DOMAIN-KEYWORD,7777777.buzz
-DOMAIN-KEYWORD,581658.best
-DOMAIN-KEYWORD,feiyue.lol
-DOMAIN-KEYWORD,123456.buzz
-DOMAIN-KEYWORD,1110111.top
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,581658.best
+DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,123456.buzz
+DOMAIN-SUFFIX,1110111.top
 IP-CIDR,193.122.114.13/32,no-resolve
 # Akuai
-DOMAIN-KEYWORD,9012345.xyz
+DOMAIN-SUFFIX,9012345.xyz
 # Heisi Emby
-DOMAIN-KEYWORD,i109.com
-DOMAIN-KEYWORD,heisi.org
+DOMAIN-SUFFIX,i109.com
+DOMAIN-SUFFIX,heisi.org
 # Baisi Emby
-DOMAIN-KEYWORD,baisi.pro
+DOMAIN-SUFFIX,baisi.pro
 # 搬服
-DOMAIN-KEYWORD,955557.xyz
+DOMAIN-SUFFIX,955557.xyz
 # CbCb
-DOMAIN-KEYWORD,cbcb.lol
+DOMAIN-SUFFIX,cbcb.lol
 # 未响
-DOMAIN-KEYWORD,mefun.org
-DOMAIN-KEYWORD,mefun.vip
+DOMAIN-SUFFIX,mefun.org
+DOMAIN-SUFFIX,mefun.vip
 # 蘑菇/见手青 Emby
-DOMAIN-KEYWORD,mooguu.xyz
-DOMAIN-KEYWORD,vban.xyz
-DOMAIN-KEYWORD,mooguu.top
-DOMAIN-KEYWORD,yeahfast.com
-DOMAIN-KEYWORD,mooguu.net
+DOMAIN-SUFFIX,mooguu.xyz
+DOMAIN-SUFFIX,vban.xyz
+DOMAIN-SUFFIX,mooguu.top
+DOMAIN-SUFFIX,yeahfast.com
+DOMAIN-SUFFIX,mooguu.net
 # Robo
-DOMAIN-KEYWORD,91ai.de
-DOMAIN-KEYWORD,668918.xyz
-DOMAIN-KEYWORD,656888.xyz
-DOMAIN-KEYWORD,roboemby.de
-DOMAIN-KEYWORD,616626.xyz
+DOMAIN-SUFFIX,91ai.de
+DOMAIN-SUFFIX,668918.xyz
+DOMAIN-SUFFIX,656888.xyz
+DOMAIN-SUFFIX,roboemby.de
+DOMAIN-SUFFIX,616626.xyz
 # hkaemby
-DOMAIN-KEYWORD,aliz.work
+DOMAIN-SUFFIX,aliz.work
 # yomo
-DOMAIN-KEYWORD,yomo.lol
-DOMAIN-KEYWORD,yamo.uk
+DOMAIN-SUFFIX,yomo.lol
+DOMAIN-SUFFIX,yamo.uk
 # AWA
-DOMAIN-KEYWORD,811861.xyz
-DOMAIN-KEYWORD,awatv.de
-DOMAIN-KEYWORD,emby-v.com
+DOMAIN-SUFFIX,811861.xyz
+DOMAIN-SUFFIX,awatv.de
+DOMAIN-SUFFIX,emby-v.com
 # 阿甘正传
-DOMAIN-KEYWORD,aganemby.top
+DOMAIN-SUFFIX,aganemby.top
 # AlphaTV海外服
-DOMAIN-KEYWORD,alphatvapp.top
-DOMAIN-KEYWORD,204cloud.com
+DOMAIN-SUFFIX,alphatvapp.top
+DOMAIN-SUFFIX,204cloud.com
 IP-CIDR,95.211.168.246/32,no-resolve
 IP-CIDR,43.139.184.65/32,no-resolve
 # 非越媒体库
-DOMAIN-KEYWORD,sfcj.org
+DOMAIN-SUFFIX,sfcj.org
 # Nanflix
-DOMAIN-KEYWORD,nanflix.net
+DOMAIN-SUFFIX,nanflix.net
 # Lily-emby
-DOMAIN-KEYWORD,lilyya.xyz
-DOMAIN-KEYWORD,lilyemby.my
+DOMAIN-SUFFIX,lilyya.xyz
+DOMAIN-SUFFIX,lilyemby.my
 # Levilde Luminia
-DOMAIN-KEYWORD,itsmyduty.top
-DOMAIN-KEYWORD,clun.top
-DOMAIN-KEYWORD,myhxgzw.fun
+DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,clun.top
+DOMAIN-SUFFIX,myhxgzw.fun
 # 月饼/映月
-DOMAIN-KEYWORD,emby.my
-DOMAIN-KEYWORD,637567.xyz
-DOMAIN-KEYWORD,yuebing.xyz
-DOMAIN-KEYWORD,yingyue.my
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,637567.xyz
+DOMAIN-SUFFIX,yuebing.xyz
+DOMAIN-SUFFIX,yingyue.my
 # 鹅服
 IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.99.83/32,no-resolve
@@ -277,195 +277,203 @@ IP-CIDR,46.3.101.30/32,no-resolve
 IP-CIDR,46.3.101.143/32,no-resolve
 IP-CIDR,154.29.154.124/32,no-resolve
 IP-CIDR,154.29.145.151/32,no-resolve
-DOMAIN-KEYWORD,pppp.us.kg
-DOMAIN-KEYWORD,cavps.eu.org
-DOMAIN-KEYWORD,567996.xyz
+DOMAIN-SUFFIX,pppp.us.kg
+DOMAIN-SUFFIX,cavps.eu.org
+DOMAIN-SUFFIX,567996.xyz
 # ikun
-DOMAIN-KEYWORD,xxxh.de
-DOMAIN-KEYWORD,diaojinping.de
+DOMAIN-SUFFIX,xxxh.de
+DOMAIN-SUFFIX,diaojinping.de
 # AuroraMedia
-DOMAIN-KEYWORD,auroramedia.vip
+DOMAIN-SUFFIX,auroramedia.vip
 # 骡马影库
-DOMAIN-KEYWORD,nomaba.com
+DOMAIN-SUFFIX,nomaba.com
 # 起点站
-DOMAIN-KEYWORD,tdck.fun
-DOMAIN-KEYWORD,clun.top
-DOMAIN-KEYWORD,vfing.de
-DOMAIN-KEYWORD,favoritewife.com
-DOMAIN-KEYWORD,28.al
-DOMAIN-KEYWORD,qdz1.top
+DOMAIN-SUFFIX,tdck.fun
+DOMAIN-SUFFIX,clun.top
+DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,favoritewife.com
+DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX,qdz1.top
 IP-CIDR,192.99.35.111/32,no-resolve
 # SaturDay Lite
-DOMAIN-KEYWORD,saturday.video
-DOMAIN-KEYWORD,saturdayvideo.top
+DOMAIN-SUFFIX,saturday.video
+DOMAIN-SUFFIX,saturdayvideo.top
 # 鹅 音乐服
-DOMAIN-KEYWORD,91bp.us.kg
-DOMAIN-KEYWORD,dhyy.eu.org
+DOMAIN-SUFFIX,91bp.us.kg
+DOMAIN-SUFFIX,dhyy.eu.org
 # 音海拾贝
-DOMAIN-KEYWORD,makifx.com
-DOMAIN-KEYWORD,aiinyue.com
+DOMAIN-SUFFIX,makifx.com
+DOMAIN-SUFFIX,aiinyue.com
 # 9club
 IP-CIDR,185.163.116.145/32,no-resolve
-DOMAIN-KEYWORD,9club.lol
+DOMAIN-SUFFIX,9club.lol
 # Dove Nest
-DOMAIN-KEYWORD,doven.tv
+DOMAIN-SUFFIX,doven.tv
 # 惊蛰
-DOMAIN-KEYWORD,jingzhe.pro
+DOMAIN-SUFFIX,jingzhe.pro
 # 稳健服
-DOMAIN-KEYWORD,wenjian.de
-DOMAIN-KEYWORD,hsu.life
+DOMAIN-SUFFIX,wenjian.de
+DOMAIN-SUFFIX,hsu.life
 # 墨云阁
-DOMAIN-KEYWORD,mobaiemby.site
+DOMAIN-SUFFIX,mobaiemby.site
 # 冰镇西瓜
-DOMAIN-KEYWORD,chilledmelon.com
+DOMAIN-SUFFIX,chilledmelon.com
 # 比比
-DOMAIN-KEYWORD,beebi.org
+DOMAIN-SUFFIX,beebi.org
 IP-CIDR,167.235.118.41/32,no-resolve
 # 流星 Emby
-DOMAIN-KEYWORD,liustar.click
+DOMAIN-SUFFIX,liustar.click
 # 垃圾机器服
 IP-CIDR,45.142.176.135/32,no-resolve
 # 明天倒闭
-DOMAIN-KEYWORD,sexemby.com
-DOMAIN-KEYWORD,wangdai.us
+DOMAIN-SUFFIX,sexemby.com
+DOMAIN-SUFFIX,wangdai.us
 # Doubon
-DOMAIN-KEYWORD,114514.quest
+DOMAIN-SUFFIX,114514.quest
 # KikuEmby
-DOMAIN-KEYWORD,ucloudhost.top
+DOMAIN-SUFFIX,ucloudhost.top
 # 叶子emby
-DOMAIN-KEYWORD,697758.best
-DOMAIN-KEYWORD,yezi.my
+DOMAIN-SUFFIX,697758.best
+DOMAIN-SUFFIX,yezi.my
 # 云上Emby
-DOMAIN-KEYWORD,outong-valve.com
+DOMAIN-SUFFIX,outong-valve.com
 # 拼好服
-DOMAIN-KEYWORD,19333991.xyz
+DOMAIN-SUFFIX,19333991.xyz
 # Starsho-Media 星烁
-DOMAIN-KEYWORD,starsho.nebula-media.org
-DOMAIN-KEYWORD,starsho.nb-media.xyz
+DOMAIN-SUFFIX,starsho.nebula-media.org
+DOMAIN-SUFFIX,starsho.nb-media.xyz
 # Lemby
-DOMAIN-KEYWORD,lemby.me
+DOMAIN-SUFFIX,lemby.me
 # DPeak Filma
-DOMAIN-KEYWORD,bwihz.cn
-DOMAIN-KEYWORD,shop.dpeak.top
+DOMAIN-SUFFIX,bwihz.cn
+DOMAIN-SUFFIX,shop.dpeak.top
 # MICU
-DOMAIN-KEYWORD,micu.hk
+DOMAIN-SUFFIX,micu.hk
 # Plumber/哪吒云 Emby
-DOMAIN-KEYWORD,nezhasu.com
-DOMAIN-KEYWORD,910427.xyz
+DOMAIN-SUFFIX,nezhasu.com
+DOMAIN-SUFFIX,910427.xyz
 # Cherry
-DOMAIN-KEYWORD,cherry-pornemby.top
+DOMAIN-SUFFIX,cherry-pornemby.top
 # Onyra
-DOMAIN-KEYWORD,onyra.cc
+DOMAIN-SUFFIX,onyra.cc
 # YounoEmby
-DOMAIN-KEYWORD,jp.younoyes.com
-DOMAIN-KEYWORD,us.younoyes.com
+DOMAIN-SUFFIX,jp.younoyes.com
+DOMAIN-SUFFIX,us.younoyes.com
+DOMAIN-SUFFIX,plussg1.younoyes.com
+DOMAIN-SUFFIX,plusjp1.younoyes.com
+DOMAIN-SUFFIX,plusde1.younoyes.com
+DOMAIN-SUFFIX,plusus2.younoyes.com
+DOMAIN-SUFFIX,plusus3.younoyes.com
+DOMAIN-SUFFIX,plushk1.younoyes.com
+DOMAIN-SUFFIX,plushk2.younoyes.com
+DOMAIN-SUFFIX,plushk3.younoyes.com
 # 入机/入境 Emby
-DOMAIN-KEYWORD,rjemby.com
-DOMAIN-KEYWORD,998903.xyz
-DOMAIN-KEYWORD,rjf37.com
-DOMAIN-KEYWORD,xytx.org
-DOMAIN-KEYWORD,010004.xyz
-DOMAIN-KEYWORD,xylyra.com
+DOMAIN-SUFFIX,rjemby.com
+DOMAIN-SUFFIX,998903.xyz
+DOMAIN-SUFFIX,rjf37.com
+DOMAIN-SUFFIX,xytx.org
+DOMAIN-SUFFIX,010004.xyz
+DOMAIN-SUFFIX,xylyra.com
 IP-CIDR,45.66.129.136/32,no-resolve
 # Paolu Emby
-DOMAIN-KEYWORD,paoluma.de
+DOMAIN-SUFFIX,paoluma.de
 # Dusky Emby
-DOMAIN-KEYWORD,eidix.store
+DOMAIN-SUFFIX,eidix.store
 # 南瓜
-DOMAIN-KEYWORD,nangua.de
+DOMAIN-SUFFIX,nangua.de
 # 青梅映画
-DOMAIN-KEYWORD,chuncheon241.top
+DOMAIN-SUFFIX,chuncheon241.top
 # 飞了个喵
-DOMAIN-KEYWORD,meowfly.de
+DOMAIN-SUFFIX,meowfly.de
 # 萝卜emby
-DOMAIN-KEYWORD,785858.xyz
+DOMAIN-SUFFIX,785858.xyz
 # 猫眼
-DOMAIN-KEYWORD,frre.me
-DOMAIN-KEYWORD,cat-eye.top
+DOMAIN-SUFFIX,frre.me
+DOMAIN-SUFFIX,cat-eye.top
 # emby肥牛
-DOMAIN-KEYWORD,feiniu.lol
+DOMAIN-SUFFIX,feiniu.lol
 # Star Emby
-DOMAIN-KEYWORD,staryuki.com
-DOMAIN-KEYWORD,zabc.net
-DOMAIN-KEYWORD,simonvan.space
-DOMAIN-KEYWORD,staryuki.me
-DOMAIN-KEYWORD,kiven.cc
+DOMAIN-SUFFIX,staryuki.com
+DOMAIN-SUFFIX,zabc.net
+DOMAIN-SUFFIX,simonvan.space
+DOMAIN-SUFFIX,staryuki.me
+DOMAIN-SUFFIX,kiven.cc
 # 片刻影视解说
-DOMAIN-KEYWORD,okbap.com
+DOMAIN-SUFFIX,okbap.com
 # PCMEmby
-DOMAIN-KEYWORD,pcmhub.org
+DOMAIN-SUFFIX,pcmhub.org
 # Ask
-DOMAIN-KEYWORD,711.lol
+DOMAIN-SUFFIX,711.lol
 # 69云
-DOMAIN-KEYWORD,69yun69.com
+DOMAIN-SUFFIX,69yun69.com
 # 薯片
-DOMAIN-KEYWORD,365115.xyz
+DOMAIN-SUFFIX,365115.xyz
 # 无界云PlayZ
-DOMAIN-KEYWORD,emby.mjji.de
+DOMAIN-SUFFIX,emby.mjji.de
 # 微光
-DOMAIN-KEYWORD,nanqiming.com
+DOMAIN-SUFFIX,nanqiming.com
 # qqpyf
-DOMAIN-KEYWORD,qqpyf.top
+DOMAIN-SUFFIX,qqpyf.top
 # 土匪
-DOMAIN-KEYWORD,tufei.de
+DOMAIN-SUFFIX,tufei.de
 # Msky
-DOMAIN-KEYWORD,5msky.com
+DOMAIN-SUFFIX,5msky.com
 # 憨豆
-DOMAIN-KEYWORD,handoumedia.top
+DOMAIN-SUFFIX,handoumedia.top
 # Zn存档服
-DOMAIN-KEYWORD,zn.al
-DOMAIN-KEYWORD,8897122.xyz
+DOMAIN-SUFFIX,zn.al
+DOMAIN-SUFFIX,8897122.xyz
 # 疯狂星期四V我50
-DOMAIN-KEYWORD,v50.su
+DOMAIN-SUFFIX,v50.su
 # SNTP Media Lite
-DOMAIN-KEYWORD,cn2gias.uk
+DOMAIN-SUFFIX,cn2gias.uk
 # 🐶
-DOMAIN-KEYWORD,990032.xyz
+DOMAIN-SUFFIX,990032.xyz
 # 收束世界线
-DOMAIN-KEYWORD,worldline.space
+DOMAIN-SUFFIX,worldline.space
 # HOHAI
-DOMAIN-KEYWORD,hohai.eu.org
+DOMAIN-SUFFIX,hohai.eu.org
 # 乐乐影库
-DOMAIN-KEYWORD,embylele.com
+DOMAIN-SUFFIX,embylele.com
 # ShrekPublic
-DOMAIN-KEYWORD,shrekmedia.org
+DOMAIN-SUFFIX,shrekmedia.org
 # UHDNOW
-DOMAIN-KEYWORD,uhdnow.com
+DOMAIN-SUFFIX,uhdnow.com
 # 妖火
 IP-CIDR,124.243.177.34/32,no-resolve
 # zhousanwan
-DOMAIN-KEYWORD,zhousanwan.com
+DOMAIN-SUFFIX,zhousanwan.com
 # 星海
-DOMAIN-KEYWORD,91lovea.xyz
-DOMAIN-KEYWORD,freefrp.net
-DOMAIN-KEYWORD,frp.one
-DOMAIN-KEYWORD,digimon.ink
+DOMAIN-SUFFIX,91lovea.xyz
+DOMAIN-SUFFIX,freefrp.net
+DOMAIN-SUFFIX,frp.one
+DOMAIN-SUFFIX,digimon.ink
 # 琉璃
-DOMAIN-KEYWORD,kongcheng666.dpdns.org
+DOMAIN-SUFFIX,kongcheng666.dpdns.org
 # 临境 Liminial Pro
-DOMAIN-KEYWORD,liminalnet.pro
+DOMAIN-SUFFIX,liminalnet.pro
 # 結束バンド
-DOMAIN-KEYWORD,biliblili.uk
+DOMAIN-SUFFIX,biliblili.uk
 # ME
-DOMAIN-KEYWORD,mebimmer.de
+DOMAIN-SUFFIX,mebimmer.de
 # iKun
-DOMAIN-KEYWORD,o808o.com
+DOMAIN-SUFFIX,o808o.com
 # 探花
-DOMAIN-KEYWORD,tanhuatv.site
+DOMAIN-SUFFIX,tanhuatv.site
 # 桜色男孩⚣🔞
-DOMAIN-KEYWORD,lustfulboy.com
+DOMAIN-SUFFIX,lustfulboy.com
 # EmbyOne
-DOMAIN-KEYWORD,3856963.shop
+DOMAIN-SUFFIX,3856963.shop
 # 开心520
-DOMAIN-KEYWORD,ucu520.top
+DOMAIN-SUFFIX,ucu520.top
 # 通用
 DOMAIN-SUFFIX,emby.media
-DOMAIN-KEYWORD,jellyfin
-DOMAIN-KEYWORD,alist
+DOMAIN-SUFFIX,jellyfin
+DOMAIN-SUFFIX,alist
 # PikPak
 DOMAIN-SUFFIX,api-drive.mypikpak.com
-DOMAIN-KEYWORD,dl-a10b-
-DOMAIN-KEYWORD,dl-z01a-
+DOMAIN-SUFFIX,dl-a10b-
+DOMAIN-SUFFIX,dl-z01a-
 # MoonTV
-DOMAIN-KEYWORD,xxk.ch
-DOMAIN-KEYWORD,cors.jsdelivr.fyi
+DOMAIN-SUFFIX,xxk.ch
+DOMAIN-SUFFIX,cors.jsdelivr.fyi
