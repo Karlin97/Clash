@@ -476,7 +476,6 @@ DOMAIN-SUFFIX,6666456.xyz
 # EchoFlix
 DOMAIN-SUFFIX,echoflix.de
 # Violet
-DOMAIN-SUFFIX,violet.run
 DOMAIN-SUFFIX,5203166.xyz
 IP-CIDR,46.3.109.178/32,no-resolve
 # EmbyOne
