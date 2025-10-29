@@ -476,6 +476,8 @@ DOMAIN-SUFFIX,echoflix.de
 # Violet
 DOMAIN-SUFFIX,5203166.xyz
 IP-CIDR,46.3.109.178/32,no-resolve
+# Embydada
+DOMAIN-SUFFIX,10520.xyz
 # EmbyOne
 DOMAIN-SUFFIX,3856963.shop
 # 开心520
