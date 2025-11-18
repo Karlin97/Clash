@@ -480,6 +480,8 @@ IP-CIDR,46.3.109.178/32,no-resolve
 DOMAIN-SUFFIX,10520.xyz
 # 神秘礼物
 DOMAIN-SUFFIX,jcnf.xyz
+# OKEmby
+DOMAIN-SUFFIX,okemby.org
 # EmbyOne
 DOMAIN-SUFFIX,3856963.shop
 # 开心520
