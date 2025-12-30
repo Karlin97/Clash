@@ -501,6 +501,9 @@ DOMAIN-SUFFIX,saodu.work
 DOMAIN-SUFFIX,notfounda.shop
 # 大姨夫
 DOMAIN-SUFFIX,emby.yun
+# 忆殇Emby
+DOMAIN-SUFFIX,noteit.eu.org
+IP-CIDR,185.150.18.40/32,no-resolve
 # EmbyOne
 DOMAIN-SUFFIX,3856963.shop
 # 开心520
