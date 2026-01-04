@@ -503,6 +503,8 @@ DOMAIN-SUFFIX,emby.yun
 # 忆殇Emby
 DOMAIN-SUFFIX,noteit.eu.org
 IP-CIDR,185.150.18.40/32,no-resolve
+# 周三晚
+DOMAIN-SUFFIX,zhousanwan.xyz
 # EmbyOne
 DOMAIN-SUFFIX,3856963.shop
 # 开心520
