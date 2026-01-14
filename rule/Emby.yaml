@@ -518,6 +518,7 @@ DOMAIN-SUFFIX,tyboe.top
 # HG Emby
 DOMAIN-SUFFIX,dnscf.dpdns.org
 # 无拘
+DOMAIN-SUFFIX,faemby.vip
 IP-CIDR,152.53.80.81/32,no-resolve
 # EmbyOne
 DOMAIN-SUFFIX,3856963.shop
