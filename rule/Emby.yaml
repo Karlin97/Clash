@@ -340,6 +340,7 @@ DOMAIN-SUFFIX,starsho.nebula-media.org
 DOMAIN-SUFFIX,starsho.nb-media.xyz
 # Lemby
 DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,886223.xyz
 IP-CIDR,154.64.232.36/32,no-resolve
 # DPeak Filma
 DOMAIN-SUFFIX,bwihz.cn
