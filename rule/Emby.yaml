@@ -507,6 +507,9 @@ DOMAIN-SUFFIX,emby.yun
 # 忆殇Emby
 DOMAIN-SUFFIX,noteit.eu.org
 IP-CIDR,185.150.18.40/32,no-resolve
+# ETFLIX Emby
+DOMAIN-SUFFIX,entertang.work
+DOMAIN-SUFFIX,etflix.lol
 # 周三晚
 DOMAIN-SUFFIX,zhousanwan.xyz
 # Goushen
