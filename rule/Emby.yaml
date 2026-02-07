@@ -490,7 +490,7 @@ DOMAIN-SUFFIX,okemby.org
 # LuxrealmPro
 DOMAIN-SUFFIX,luxrealm.space
 DOMAIN-SUFFIX,552554.xyz
-IP-CIDR,175.29.23.108,no-resolve
+IP-CIDR,175.29.23.108/32,no-resolve
 # Nayovo
 DOMAIN-SUFFIX,007.us.kg
 # ROC-Emby
