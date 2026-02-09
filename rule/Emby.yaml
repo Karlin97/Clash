@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,dnscf.dpdns.org
 DOMAIN-SUFFIX,faemby.vip
 IP-CIDR,152.53.80.81/32,no-resolve
 # HelloHK
+DOMAIN-SUFFIX,hellohk.me
 IP-CIDR,199.188.198.202/32,no-resolve
 # GUAI
 DOMAIN-SUFFIX,83787.de
