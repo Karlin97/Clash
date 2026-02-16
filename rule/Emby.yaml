@@ -499,6 +499,7 @@ IP-CIDR,175.29.23.108/32,no-resolve
 DOMAIN-SUFFIX,007.us.kg
 # ROC-Emby
 DOMAIN-SUFFIX,foodtop1.com
+DOMAIN-SUFFIX,rochub.xyz
 # emby动画公益站
 DOMAIN-SUFFIX,ciallo.party
 # Hualu
