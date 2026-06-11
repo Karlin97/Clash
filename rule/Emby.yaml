@@ -258,6 +258,7 @@ IP-CIDR,95.211.168.246/32,no-resolve
 IP-CIDR,43.139.184.65/32,no-resolve
 # 非越媒体库
 DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
 # Nanflix
 DOMAIN-SUFFIX,nanflix.net
 # Lily-emby
