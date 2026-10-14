@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,yhemby.top
 # peach公益服
 DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,peachmv.me
+DOMAIN-SUFFIX,embymv.cc
 IP-CIDR,209.97.173.144/32,no-resolve
 IP-CIDR,193.123.232.141/32
 # Orange
