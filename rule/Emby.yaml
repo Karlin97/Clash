@@ -271,6 +271,7 @@ DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,637567.xyz
 DOMAIN-SUFFIX,yuebing.xyz
 DOMAIN-SUFFIX,yingyue.my
+DOMAIN-SUFFIX,876645.xyz
 # 鹅服
 IP-CIDR,46.3.99.99/32,no-resolve
 IP-CIDR,46.3.99.83/32,no-resolve
